@@ -9,6 +9,7 @@ Space! So, humanity has expanded out into space. They discovered a mysterious ne
 ## What's happened there
 
 During the game intro, the player will discover that the colony's interior has changed itself a strange mix of biomes. From jungle, to medieval village, to grungy 21st century town. The inhabitants have all been changed into various forms of "monster" girls. Catgirls, bunnygirls, succubi, you name it! Probably include some guys too. Each different species has formed their own faction and are softly competing for control over the colony, trying to become the dominant species there.
+Why has all this happened? Magic, of course. At least, magic with its own will and ideas. The scientists discovered this magical energy inside the nebula. As they researched it, slowly it started to mess with them, eventually taking control of the colony. Changing everything inside into what it thought would be fun, and doing "research" back on the humans.
 
 ### The Colony
 
