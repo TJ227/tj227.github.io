@@ -28,11 +28,11 @@ Weapons will be a conjured item, available in different classes such as sword, p
 - Two-handed sword: Heavy damage, slower attack, short range
 - Polearm: Decent damage, slow attack, medium range
 - Bow: Low damage, medium attack, longer range
-- Musket (Pistol?): Heaviest damage, very slow attack, low accuracy, long range
+- Musket (Pistol?): Heaviest damage, very slow attack (single-shot, takes time to reload), low accuracy, long range
 
 #### Questions
 
-1. How should range/distance be a direct stat/concept? Skills/Agility to keep an enemy at a distance? If not, how do ranged weapons balance against melee weapons?
+1. How should range/distance be implemented in the game? Just as an adjusted basic stat? Skills/Agility to keep an enemy at a distance? If not, how do ranged weapons balance against melee weapons?
 
 ### Damage
 
